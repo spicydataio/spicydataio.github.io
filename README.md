@@ -1,3 +1,3 @@
 # Spicy Data Website
 
-Go to spicydata.io
+Go to https://spicydata.io
